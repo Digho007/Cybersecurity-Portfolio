@@ -92,9 +92,9 @@ This project, completed as part of my GoMyCode cybersecurity training, demonstra
 - Mastered `grep` and regex for extracting IP addresses.
 - Produced visual evidence (screenshots) of command outputs and log analysis results.
 
-## Screenshots
-
-Screenshots of command outputs and log analysis results are available https://docs.google.com/document/d/1y1L1wWgFXU0ujCno7qAmN8bvQcc8gOoccL2AYSdAKhA/edit?usp=sharing:
+## Screenshots of command outputs and log analysis results
+ 
+[View Screenshots on Google Docs](https://docs.google.com/document/d/1y1L1wWgFXU0ujCno7qAmN8bvQcc8gOoccL2AYSdAKhA/edit?usp=sharing)
 
 - **Image 1:** Output of `ls` showing log files.
 - **Image 2:** `cat -n access_log.log` displaying numbered log entries.
