@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project, completed during my GoMyCode cybersecurity training, focuses on hardening administrator accounts and workstations in a Windows Server environment using Active Directory and Group Policy. I created a fine-grained password policy for IT staff accounts and configured a Group Policy Object (GPO) to secure IT workstations, implementing settings like disabling Guest Accounts and renaming Administrator Accounts. This project showcases my skills in Windows system administration and defensive cybersecurity, critical for roles like SOC analyst or cybersecurity engineer in industries such as oil and gas.
+This project, completed during my GoMyCode cybersecurity training, focuses on hardening administrator accounts and workstations in a Windows Server environment using Active Directory and Group Policy. I created a fine-grained password policy for IT staff accounts and configured a Group Policy Object (GPO) to secure IT workstations, implementing settings like disabling Guest Accounts and renaming Administrator Accounts. This project showcases my skills in Windows system administration and defensive cybersecurity, critical for roles like SOC analyst or cybersecurity engineer.
 
 ---
 
