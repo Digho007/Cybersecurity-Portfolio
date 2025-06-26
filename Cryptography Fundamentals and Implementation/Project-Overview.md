@@ -206,7 +206,7 @@ This project mirrors real-world cryptography tasks, such as securing data transm
    `pip install cryptography`
 2. Run `symmetric_encryption.py` to encrypt/decrypt a user message.
 3. Run `md5_hash.py` to calculate the MD5 hash of a string.
-4. Review theoretical exercises (Caesar, Vigenère, RSA) in the README.
+4. Review theoretical exercises (Caesar, Vigenère, RSA).
 5. Optionally, simulate RSA encryption in a calculator or Python.
 
 ---
