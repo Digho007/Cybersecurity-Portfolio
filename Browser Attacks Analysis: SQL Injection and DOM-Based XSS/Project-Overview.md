@@ -127,7 +127,7 @@ This project, completed during my GoMyCode cybersecurity training, demonstrates 
 - Successfully exploited SQL injection to extract admin credentials and gain unauthorized access.
 - Executed a DOM-based XSS attack, triggering a JavaScript alert in the victim’s browser.
 - Proposed mitigation strategies to secure web applications against SQL injection and XSS.
-- Captured 17 screenshots of Burp Suite outputs, payloads, DOM inspection, and lab completion messages.
+- Captured screenshots of Burp Suite outputs, payloads, DOM inspection, and lab completion messages.
 
 ---
 
